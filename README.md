@@ -1,0 +1,2 @@
+# poetry_sentence_translation
+一些古诗文的逐句翻译
